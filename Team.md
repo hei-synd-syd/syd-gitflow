@@ -1,30 +1,100 @@
-Student 00
-Student 01
-Student 02
-Student 03
-Student 04
-Student 05
-Student 06
-Student 07
-Student 08
-Student 09
-Student 10
-Student 11
-Student 12
-Student 13
-Student 14
-Student 15
-Student 16
-Student 17
-Student 18
-Student 19
-Student 20
-Student 21
-Student 22
-Student 23
-Student 24
-Student 25
-Student 26
-Student 27
-Student 28
-Student 29
+00 Silvan Zahno tschinz
+01 <students-firstname> <students-lastname> <github-username>
+02 <students-firstname> <students-lastname> <github-username>
+03 <students-firstname> <students-lastname> <github-username>
+04 <students-firstname> <students-lastname> <github-username>
+05 <students-firstname> <students-lastname> <github-username>
+06 <students-firstname> <students-lastname> <github-username>
+07 <students-firstname> <students-lastname> <github-username>
+08 <students-firstname> <students-lastname> <github-username>
+09 <students-firstname> <students-lastname> <github-username>
+10 <students-firstname> <students-lastname> <github-username>
+11 <students-firstname> <students-lastname> <github-username>
+12 <students-firstname> <students-lastname> <github-username>
+13 <students-firstname> <students-lastname> <github-username>
+14 <students-firstname> <students-lastname> <github-username>
+15 <students-firstname> <students-lastname> <github-username>
+16 <students-firstname> <students-lastname> <github-username>
+17 <students-firstname> <students-lastname> <github-username>
+18 <students-firstname> <students-lastname> <github-username>
+19 <students-firstname> <students-lastname> <github-username>
+20 <students-firstname> <students-lastname> <github-username>
+21 <students-firstname> <students-lastname> <github-username>
+22 <students-firstname> <students-lastname> <github-username>
+23 <students-firstname> <students-lastname> <github-username>
+24 <students-firstname> <students-lastname> <github-username>
+25 <students-firstname> <students-lastname> <github-username>
+26 <students-firstname> <students-lastname> <github-username>
+27 <students-firstname> <students-lastname> <github-username>
+28 <students-firstname> <students-lastname> <github-username>
+29 <students-firstname> <students-lastname> <github-username>
+30 <students-firstname> <students-lastname> <github-username>
+31 <students-firstname> <students-lastname> <github-username>
+32 <students-firstname> <students-lastname> <github-username>
+33 <students-firstname> <students-lastname> <github-username>
+34 <students-firstname> <students-lastname> <github-username>
+35 <students-firstname> <students-lastname> <github-username>
+36 <students-firstname> <students-lastname> <github-username>
+37 <students-firstname> <students-lastname> <github-username>
+38 <students-firstname> <students-lastname> <github-username>
+39 <students-firstname> <students-lastname> <github-username>
+40 <students-firstname> <students-lastname> <github-username>
+41 <students-firstname> <students-lastname> <github-username>
+42 <students-firstname> <students-lastname> <github-username>
+43 <students-firstname> <students-lastname> <github-username>
+44 <students-firstname> <students-lastname> <github-username>
+45 <students-firstname> <students-lastname> <github-username>
+46 <students-firstname> <students-lastname> <github-username>
+47 <students-firstname> <students-lastname> <github-username>
+48 <students-firstname> <students-lastname> <github-username>
+49 <students-firstname> <students-lastname> <github-username>
+50 <students-firstname> <students-lastname> <github-username>
+51 <students-firstname> <students-lastname> <github-username>
+52 <students-firstname> <students-lastname> <github-username>
+53 <students-firstname> <students-lastname> <github-username>
+54 <students-firstname> <students-lastname> <github-username>
+55 <students-firstname> <students-lastname> <github-username>
+56 <students-firstname> <students-lastname> <github-username>
+57 <students-firstname> <students-lastname> <github-username>
+58 <students-firstname> <students-lastname> <github-username>
+59 <students-firstname> <students-lastname> <github-username>
+60 <students-firstname> <students-lastname> <github-username>
+61 <students-firstname> <students-lastname> <github-username>
+62 <students-firstname> <students-lastname> <github-username>
+63 <students-firstname> <students-lastname> <github-username>
+64 <students-firstname> <students-lastname> <github-username>
+65 <students-firstname> <students-lastname> <github-username>
+66 <students-firstname> <students-lastname> <github-username>
+67 <students-firstname> <students-lastname> <github-username>
+68 <students-firstname> <students-lastname> <github-username>
+69 <students-firstname> <students-lastname> <github-username>
+70 <students-firstname> <students-lastname> <github-username>
+71 <students-firstname> <students-lastname> <github-username>
+72 <students-firstname> <students-lastname> <github-username>
+73 <students-firstname> <students-lastname> <github-username>
+74 <students-firstname> <students-lastname> <github-username>
+75 <students-firstname> <students-lastname> <github-username>
+76 <students-firstname> <students-lastname> <github-username>
+77 <students-firstname> <students-lastname> <github-username>
+78 <students-firstname> <students-lastname> <github-username>
+79 <students-firstname> <students-lastname> <github-username>
+80 <students-firstname> <students-lastname> <github-username>
+81 <students-firstname> <students-lastname> <github-username>
+82 <students-firstname> <students-lastname> <github-username>
+83 <students-firstname> <students-lastname> <github-username>
+84 <students-firstname> <students-lastname> <github-username>
+85 <students-firstname> <students-lastname> <github-username>
+86 <students-firstname> <students-lastname> <github-username>
+87 <students-firstname> <students-lastname> <github-username>
+88 <students-firstname> <students-lastname> <github-username>
+89 <students-firstname> <students-lastname> <github-username>
+90 <students-firstname> <students-lastname> <github-username>
+91 <students-firstname> <students-lastname> <github-username>
+92 <students-firstname> <students-lastname> <github-username>
+93 <students-firstname> <students-lastname> <github-username>
+94 <students-firstname> <students-lastname> <github-username>
+95 <students-firstname> <students-lastname> <github-username>
+96 <students-firstname> <students-lastname> <github-username>
+97 <students-firstname> <students-lastname> <github-username>
+98 <students-firstname> <students-lastname> <github-username>
+99 <students-firstname> <students-lastname> <github-username>
