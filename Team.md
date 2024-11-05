@@ -1,6 +1,6 @@
 00 Silvan Zahno tschinz
 01 <students-firstname> <students-lastname> <github-username>
-02 <students-firstname> <students-lastname> <github-username>
+02 Yvan Kreis Kreys616
 03 <students-firstname> <students-lastname> <github-username>
 04 <students-firstname> <students-lastname> <github-username>
 05 <students-firstname> <students-lastname> <github-username>
