@@ -9,7 +9,7 @@
 08 <students-firstname> <students-lastname> <github-username>
 09 <students-firstname> <students-lastname> <github-username>
 10 <students-firstname> <students-lastname> <github-username>
-11 <students-firstname> <students-lastname> <github-username>
+Nicolas Landry
 12 <students-firstname> <students-lastname> <github-username>
 13 <students-firstname> <students-lastname> <github-username>
 14 <students-firstname> <students-lastname> <github-username>
