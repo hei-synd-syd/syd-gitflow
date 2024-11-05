@@ -34,7 +34,7 @@
 33 <students-firstname> <students-lastname> <github-username>
 34 <students-firstname> <students-lastname> <github-username>
 35 <students-firstname> <students-lastname> <github-username>
-36 <students-firstname> <students-lastname> <github-username>
+36 Gabriel De Sousa Gabs2sou
 37 <students-firstname> <students-lastname> <github-username>
 38 <students-firstname> <students-lastname> <github-username>
 39 <students-firstname> <students-lastname> <github-username>
