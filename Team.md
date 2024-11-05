@@ -1,5 +1,5 @@
 00 Silvan Zahno tschinz
-01 <students-firstname> <students-lastname> <github-username>
+01 Nathan Coudray Aydong
 02 <students-firstname> <students-lastname> <github-username>
 03 <students-firstname> <students-lastname> <github-username>
 04 <students-firstname> <students-lastname> <github-username>
