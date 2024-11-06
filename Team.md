@@ -8,7 +8,7 @@
 07 Romain Savioz RomainSavioz
 08 <students-firstname> <students-lastname> <github-username>
 09 Axel Bonetti axelbonetti
-10 <students-firstname> <students-lastname> <github-username>
+10 Niklas Weis nikcoer012
 11 Jean Sébastien Allet JSA-HEVS
 12 <students-firstname> <students-lastname> <github-username>
 13 <students-firstname> <students-lastname> <github-username>
