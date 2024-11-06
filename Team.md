@@ -34,7 +34,7 @@
 33 Etienne Haingartner EtieHain
 34 Gregory Blatter District25
 35 Diogo Febre Diogodafebre
-36 <students-firstname> <students-lastname> <github-username>
+36 Gabriel De Sousa Gabs2sou
 37 PauloJunior GomesCosta PauloJun-GomesCos
 38 Jessica Udry JessUdryHES 
 39 Basile Gasser Gasile
