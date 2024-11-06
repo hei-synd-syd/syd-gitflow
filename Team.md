@@ -16,7 +16,7 @@
 15 <students-firstname> <students-lastname> <github-username>
 16 <students-firstname> <students-lastname> <github-username>
 17 <students-firstname> <students-lastname> <github-username>
-18 <students-firstname> <students-lastname> <github-username>
+18 Florent Pralong FlorentPralong
 19 Bryan Moix d1atek
 20 <students-firstname> <students-lastname> <github-username>
 21 Julien Le Bras JulienLeBras13
