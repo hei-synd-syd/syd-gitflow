@@ -22,7 +22,7 @@
 21 Julien Le Bras JulienLeBras13
 22 Bastien Micheloud bastienmicheloud
 23 loic DeVico LoicDevi
-24 <students-firstname> <students-lastname> <github-username>
+24 Samuel Bridevaux SamuelBridevaux
 25 Emanuel Arnold emanuelarnold
 26 Nils Ritler Slisls
 27 <students-firstname> <students-lastname> <github-username>
