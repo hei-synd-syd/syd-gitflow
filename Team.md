@@ -21,7 +21,7 @@
 20 <students-firstname> <students-lastname> <github-username>
 21 Julien Le Bras JulienLeBras13
 22 Bastien Micheloud bastienmicheloud
-23 <students-firstname> <students-lastname> <github-username>
+23 loic DeVico LoicDevi
 24 <students-firstname> <students-lastname> <github-username>
 25 <students-firstname> <students-lastname> <github-username>
 26 Nils Ritler Slisls
