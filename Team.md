@@ -1,6 +1,6 @@
 00 Silvan Zahno tschinz
 01 Nathan Coudray Aydong
-02 <students-firstname> <students-lastname> <github-username>
+02 Yvan Kreis Kreys616
 03 <students-firstname> <students-lastname> <github-username>
 04 Louis Barras louisbarras
 05 Elia Francey eliafrancey
