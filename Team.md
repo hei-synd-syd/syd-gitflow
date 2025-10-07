@@ -1,6 +1,6 @@
 00 Silvan Zahno tschinz
 01 Axel Amand Qarmma
-02 <students-firstname> <students-lastname> <github-username>
+02 Nicolas Begert nico-219
 03 <students-firstname> <students-lastname> <github-username>
 04 Alessio Ciardo acssio
 05 <students-firstname> <students-lastname> <github-username>
